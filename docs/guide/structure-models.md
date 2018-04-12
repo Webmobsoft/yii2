@@ -15,7 +15,7 @@ You can create model classes by extending [[yii\base\Model]] or its child classe
 * [Data Exporting](#data-exporting): allows model data to be exported in terms of arrays with customizable formats.
 
 The `Model` class is also the base class for more advanced models, such as [Active Record](db-active-record.md).
-Please refer to the relevant documentation for more details about these advanced models.
+Please refer to the relevant documentation for more hjhj details about these advanced models.
 
 > Info: You are not required to base your model classes on [[yii\base\Model]]. However, because there are many Yii
   components built to support [[yii\base\Model]], it is usually the preferable base class for a model.
